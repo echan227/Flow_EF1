@@ -1,0 +1,16 @@
+{
+  "DEFAULT_CODE_DIR": "/home/bram/Scripts/AI_CMR_QC",
+  "DEFAULT_INPUT_DIR": "/home/bram/External_data/EXPLORE/re_done/raw/",
+  "DEFAULT_LOCAL_DIR": "/home/bram/External_data/EXPLORE/re_done/",
+  "DEFAULT_DICOM_SUBDIR": "dicom",
+  "DEFAULT_DICOM_formatted_SUBDIR": "DICOM_formatted",
+  "DEFAULT_NPY_SUBDIR": "npy",
+  "DEFAULT_SUBDIR_NIFTI": "nifti",
+  "DEFAULT_NNUNET_NIFTI": "nnUNet_raw_data",
+  "DEFAULT_LOG_DIR": "log",
+  "DEFAULT_ANOYMSED_REPORT_CSV": "anonymised_pairs.csv",
+  "DEFAULT_MODELS_DIR": "/home/bram/Scripts/AI_CMR_QC/models",
+  "DEFAULT_MODEL_NAMES": ["densenet_view_classifier.pt", "shufflenet_2Ch.pt", "densenet_3Ch.pt", "shufflenet_4Ch.pt"],
+  "doFullReport": true,
+  "DEFAULT_MODEL_QC": "SAX_QC_CNNLSTM.h5"
+}

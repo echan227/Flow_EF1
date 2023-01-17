@@ -1,0 +1,13 @@
+{
+    "DEFAULT_CODE_DIR": "/home/br14/code/Python/AI_centre/Flow_project_Carlota_Ciaran/AI_CMR_QC",
+    "DEFAULT_INPUT_DIR": "/Volumes/TOSHIBA EXT/cmras/Study Folder - MRI",
+    "DEFAULT_LOCAL_DIR": "/data/Datasets/Flow/data_EF1/",
+    "DEFAULT_DICOM_SUBDIR": "dicom",
+    "DEFAULT_DICOM_formatted_SUBDIR": "DICOM_formatted",
+    "DEFAULT_SUBDIR_NIFTI": "nifti",
+    "DEFAULT_LOG_DIR": "log",
+    "DEFAULT_NNUNET_NIFTI": "nnUNet_raw_data",
+    "DEFAULT_MODELS_DIR": "/home/br14/code/Python/AI_centre/Flow_project_Carlota_Ciaran/AI_CMR_QC/models",
+    "DEFAULT_MODEL_NAMES": ["densenet_view_classifier.pt", "shufflenet_2Ch.pt", "densenet_3Ch.pt", "shufflenet_4Ch.pt"],
+    "DEFAULT_MODEL_QC": "SAX_QC_CNNLSTM.h5"
+  }
